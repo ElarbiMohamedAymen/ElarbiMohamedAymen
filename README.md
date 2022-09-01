@@ -21,8 +21,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElarbiMohamedAymen&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElarbiMohamedAymen)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElarbiMohamedAymen) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElarbiMohamedAymen)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElarbiMohamedAymen)  
 
 ![Profile views](https://gpvc.arturio.dev/ElarbiMohamedAymen)  
