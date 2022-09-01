@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aymen,
+### Hi there 👋, my name is Mohamed Aymen ELARBI,
 #### I am a fullstack developper 
 
 ### Skills: 
@@ -22,9 +22,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElarbiMohamedAymen&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElarbiMohamedAymen)  
-
-![GitHub metrics](https://metrics.lecoq.io/ElarbiMohamedAymen)  
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElarbiMohamedAymen)  
 
