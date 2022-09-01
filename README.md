@@ -21,8 +21,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElarbiMohamedAymen) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElarbiMohamedAymen) 
-
 ![GitHub metrics](https://metrics.lecoq.io/ElarbiMohamedAymen)  
 
 ![Profile views](https://gpvc.arturio.dev/ElarbiMohamedAymen)  
